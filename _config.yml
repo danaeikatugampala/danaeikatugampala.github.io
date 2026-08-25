@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Danaei Katugampala"
 description              : &description "M.A. student in Economics at Old Dominion University. Research in environmental economics, green finance, and applied econometrics."
 url                      : https://danaeikatugampala.github.io
-baseurl                  : "/danaeikatugampala.gihub.io"
-repository               : "danaeikatugampala/danaeikatugampala.gihub.io"
+baseurl                  : ""
+repository               : "danaeikatugampala/danaeikatugampala.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
