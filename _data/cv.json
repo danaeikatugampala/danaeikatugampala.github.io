@@ -1,152 +1,238 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Danaei Katugampala",
+    "label": "M.A. student in Economics, Old Dominion University",
+    "email": "danaeikatugampala20@gmail.com",
+    "phone": "+1 757 576 7494",
+    "website": "",
+    "summary": "B.A. (Hons) Economics graduate of the University of Ruhuna (GPA 3.66/4.00) and current M.A. student in Economics at Old Dominion University. Research interests in environmental and green economics, with training in microeconomics, macroeconomics, econometrics, and qualitative and quantitative methods.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Norfolk",
       "countryCode": "US",
-      "region": ""
+      "region": "Virginia"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "network": "LinkedIn",
+        "username": "danaei-katugampala-142770270",
+        "url": "https://www.linkedin.com/in/danaei-katugampala-142770270/"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "position": "Graduate Assistant",
+      "name": "Strome Business School, Old Dominion University",
+      "location": "Virginia, USA",
+      "startDate": "2026-08",
+      "endDate": "",
+      "summary": "Graduate assistant at the Strome Business School.",
+      "highlights": []
+    },
+    {
+      "position": "Research Intern",
+      "name": "Marga Institute",
+      "location": "Colombo, Sri Lanka",
+      "startDate": "2025-11",
+      "endDate": "2026-01",
+      "summary": "Supported data collection, analysis, and presentation for ongoing research projects.",
+      "highlights": [
+        "Assisted in the collection, analysis, and presentation of data",
+        "Summarized existing research relevant to project work",
+        "Supported consultations through meetings, documentation, and stakeholder communication"
+      ]
+    },
+    {
+      "position": "Marketing Executive",
+      "name": "ARTRA",
+      "location": "Colombo, Sri Lanka",
+      "startDate": "2024-02",
+      "endDate": "2026-01",
+      "summary": "Planned and executed marketing campaigns for art events, exhibitions, and featured artists.",
+      "highlights": [
+        "Collaborated with artists and partners on promotional material and art talks",
+        "Organized art-tourism exhibitions for local and international audiences in Galle and Colombo"
+      ]
+    },
+    {
+      "position": "Human Resource Associate",
+      "name": "Alta Vision (Pvt.) Ltd.",
+      "location": "Colombo/Matara, Sri Lanka",
+      "startDate": "2023-01",
+      "endDate": "2025-04",
+      "summary": "Supported recruitment and employee records.",
+      "highlights": [
+        "Assisted recruitment, including job postings, CV screening, and interview scheduling",
+        "Maintained employee records and supported HR policy and confidentiality compliance"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Old Dominion University",
+      "area": "M.A. in Economics",
+      "studyType": "Master of Arts",
+      "startDate": "2026",
+      "endDate": "2028",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "University of Ruhuna",
+      "area": "B.A. (Hons) in Economics",
+      "studyType": "Bachelor of Arts (Honours)",
+      "startDate": "2022",
+      "endDate": "2026",
+      "gpa": "3.66/4.00",
+      "courses": []
+    },
+    {
+      "institution": "Aquinas College",
+      "area": "Diploma in Psychology and Counseling",
+      "studyType": "Diploma",
+      "startDate": "2021",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
+      "institution": "St. Bridget's Convent",
+      "area": "G.C.E. Advanced Level (Economics, Geography, History)",
+      "studyType": "A-Level",
       "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "endDate": "2020",
+      "gpa": "2 A's, 1 B",
+      "courses": []
+    },
+    {
+      "institution": "St. Bridget's Convent",
+      "area": "G.C.E. Ordinary Level",
+      "studyType": "O-Level",
+      "startDate": "",
+      "endDate": "2017",
+      "gpa": "9 A's",
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Research methods",
+      "level": "",
+      "keywords": [
+        "Econometrics",
+        "Qualitative research",
+        "Quantitative research",
+        "OLS",
+        "VAR/SVAR",
+        "Factor analysis"
+      ]
+    },
+    {
+      "name": "Software",
+      "level": "",
+      "keywords": [
+        "Gretl",
+        "Stata"
+      ]
+    }
+  ],
   "languages": [],
-  "interests": [],
-  "references": [],
+  "interests": [
+    {
+      "name": "Environmental economics and green finance"
+    },
+    {
+      "name": "International trade and finance"
+    },
+    {
+      "name": "Industrial and applied economics"
+    },
+    {
+      "name": "Microeconomics and macroeconomics"
+    }
+  ],
+  "references": [
+    {
+      "name": "Dr. Jay K. Walker",
+      "reference": "Associate Professor and Graduate Program Director, M.A. Program in Economics, Department of Economics, Strome College of Business, Old Dominion University. j1walker@odu.edu"
+    },
+    {
+      "name": "Dr. Nisantha Kurukulasooriya",
+      "reference": "Former Head of the Department, Department of Economics, University of Ruhuna. nisantha@econ.ruh.ac.lk"
+    },
+    {
+      "name": "Miss Sulakkana Gamage",
+      "reference": "Senior Lecturer, Department of Economics, University of Ruhuna. gamagesulakkana@gmail.com"
+    },
+    {
+      "name": "Mr. Kamal Kandewatta",
+      "reference": "Former Lecturer, Department of Economics, University of Ruhuna. kamalkandewatta@econ.ruh.ac.lk"
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "A Study of How Motherhood Affects Career Life in South Asia",
+      "publisher": "RASAS 101 Symposium, University of Ruhuna",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": "Extended abstract on the socio-cultural, psychological, and economic impacts of motherhood on women’s career trajectories in South Asia."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "The Role of Green Bonds in Mobilizing Climate Finance in South Asia",
+      "publisher": "University of Ruhuna, B.A. (Hons) thesis",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "Qualitative thesis combining a systematic literature review and semi-structured interviews with Sri Lankan financial institutions."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "A Study of How Motherhood Affects Career Life in South Asia",
+      "event": "RASAS 101 Symposium, University of Ruhuna",
+      "date": "2024",
+      "location": "Matara, Sri Lanka",
+      "description": "Extended abstract presentation on motherhood and women’s career trajectories in South Asia."
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Volunteer English Teacher",
+      "institution": "EDUQUOR, Rotaract Club, University of Ruhuna",
+      "date": "2024",
+      "role": "Community teaching",
+      "description": "Volunteer English teacher with EDUQUOR at the University of Ruhuna."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
+      "name": "The Role of Green Bonds in Mobilizing Climate Finance in South Asia",
+      "category": "thesis",
+      "date": "2026",
+      "url": "",
+      "description": "Bachelor’s thesis on green bonds, climate finance, and market barriers in South Asia."
+    },
+    {
+      "name": "Factors Influencing Customer Satisfaction in the Hospitality Industry in Sri Lanka",
+      "category": "research",
       "date": "",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Statistical analysis of Booking.com data using correlation, regression, and factor analysis (R² = 95.5%)."
+    },
+    {
+      "name": "How Interest Rates Affect Economic Growth in Singapore",
+      "category": "research",
+      "date": "",
+      "url": "",
+      "description": "OLS analysis of 40 years of data (1982–2022) on interest rates, global growth, and Singapore’s GDP."
+    },
+    {
+      "name": "How Inflation and GDP Growth Affect the Unemployment Rate in China",
+      "category": "research",
+      "date": "",
+      "url": "",
+      "description": "VAR and SVAR analysis of inflation, growth, and unemployment in China, 1980–2020."
     }
   ]
 }
