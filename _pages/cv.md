@@ -11,7 +11,7 @@ redirect_from:
 
 **Danaei Katugampala**  
 M.A. student in Economics, Old Dominion University  
-[danaeikatugampala20@gmail.com](mailto:danaeikatugampala20@gmail.com) · +1 757 576 7494 · [LinkedIn](https://www.linkedin.com/in/danaei-katugampala-142770270/)
+[danaeikatugampala20@gmail.com](mailto:danaeikatugampala20@gmail.com) · [LinkedIn](https://www.linkedin.com/in/danaei-katugampala-142770270/)
 
 Academic profile
 ======
