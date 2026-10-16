@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Danaei Katugampala"
 title_separator          : "-"
 name                     : &name "Danaei Katugampala"
-description              : &description "M.A. student in Economics at Old Dominion University. Research in environmental economics, green finance, and applied econometrics."
+description              : &description "M.A. student in Economics at Old Dominion University. Background in econometrics, quantitative analysis, and applied research."
 url                      : https://danaeikatugampala.github.io
 baseurl                  : ""
 repository               : "danaeikatugampala/danaeikatugampala.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "dana.jpg"
   name             : "Danaei Katugampala"
   pronouns         : # example: "she/her"  
-  bio              : "M.A. student in Economics at Old Dominion University. Research in environmental economics and green finance."
+  bio              : "M.A. student in Economics at Old Dominion University. Teaching and research assistant in econometrics and applied analysis."
   location         : "Norfolk, Virginia"
   employer         : "Old Dominion University"
   uri              : # URL
@@ -145,7 +145,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 : dana.jpg
-og_description           : "M.A. student in Economics at Old Dominion University. Research in environmental economics, green finance, and applied econometrics."
+og_description           : "M.A. student in Economics at Old Dominion University. Background in econometrics, quantitative analysis, and applied research."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Danaei Katugampala",
-    "label": "M.A. student in Economics, Old Dominion University",
+    "label": "M.A. in Economics, Old Dominion University",
     "email": "danaeikatugampala20@gmail.com",
-    "phone": "",
+    "phone": "+1 757 576 7494",
     "website": "",
-    "summary": "B.A. (Hons) Economics graduate of the University of Ruhuna (GPA 3.66/4.00) and current M.A. student in Economics at Old Dominion University. Research interests in environmental and green economics, with training in microeconomics, macroeconomics, econometrics, and qualitative and quantitative methods.",
+    "summary": "M.A. Economics student at Old Dominion University with a B.A. (Hons) in Economics. Strong background in econometrics, economic research, quantitative analysis, and data-driven problem solving, with experience using R, Stata, SPSS, and Gretl. Experienced in conducting empirical research, analyzing economic data, and communicating research findings. Interested in applying economic and analytical skills to consulting projects involving healthcare economics, public policy, and industry analysis.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -23,13 +23,30 @@
   },
   "work": [
     {
-      "position": "Graduate Assistant",
+      "position": "Teaching Assistant",
       "name": "Strome Business School, Old Dominion University",
       "location": "Virginia, USA",
       "startDate": "2026-08",
       "endDate": "",
-      "summary": "Graduate assistant at the Strome Business School.",
-      "highlights": []
+      "summary": "Assist with undergraduate economics courses, grading, tutoring, and examination proctoring.",
+      "highlights": [
+        "Assist with undergraduate economics courses by supporting students with assignments and academic questions",
+        "Grade and review student assignments, providing constructive feedback to improve understanding",
+        "Conduct tutoring and office hours for undergraduates and assist faculty with examination proctoring"
+      ]
+    },
+    {
+      "position": "Research Assistant",
+      "name": "Strome Business School, Old Dominion University",
+      "location": "Virginia, USA",
+      "startDate": "2026-08",
+      "endDate": "",
+      "summary": "Support faculty research through literature reviews, data work, and econometric analysis.",
+      "highlights": [
+        "Support faculty research through literature reviews, data collection, data cleaning, and quantitative analysis",
+        "Assist with empirical research projects using statistical and econometric methods in R and related software",
+        "Contribute to research documentation, interpretation of results, and communication of findings"
+      ]
     },
     {
       "position": "Research Intern",
@@ -75,7 +92,7 @@
       "area": "M.A. in Economics",
       "studyType": "Master of Arts",
       "startDate": "2026",
-      "endDate": "2028",
+      "endDate": "2028-07",
       "gpa": null,
       "courses": []
     },
@@ -84,7 +101,7 @@
       "area": "B.A. (Hons) in Economics",
       "studyType": "Bachelor of Arts (Honours)",
       "startDate": "2022",
-      "endDate": "2026",
+      "endDate": "2026-03",
       "gpa": "3.66/4.00",
       "courses": []
     },
@@ -95,24 +112,6 @@
       "startDate": "2021",
       "endDate": "2022",
       "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "St. Bridget's Convent",
-      "area": "G.C.E. Advanced Level (Economics, Geography, History)",
-      "studyType": "A-Level",
-      "startDate": "",
-      "endDate": "2020",
-      "gpa": "2 A's, 1 B",
-      "courses": []
-    },
-    {
-      "institution": "St. Bridget's Convent",
-      "area": "G.C.E. Ordinary Level",
-      "studyType": "O-Level",
-      "startDate": "",
-      "endDate": "2017",
-      "gpa": "9 A's",
       "courses": []
     }
   ],
@@ -133,15 +132,20 @@
       "name": "Software",
       "level": "",
       "keywords": [
-        "Gretl",
-        "Stata"
+        "R",
+        "Stata",
+        "SPSS",
+        "Gretl"
       ]
     }
   ],
   "languages": [],
   "interests": [
     {
-      "name": "Environmental economics and green finance"
+      "name": "Environmental economics"
+    },
+    {
+      "name": "Healthcare economics, public policy, and industry analysis"
     },
     {
       "name": "International trade and finance"

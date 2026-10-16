@@ -10,24 +10,30 @@ redirect_from:
 {% include base_path %}
 
 **Danaei Katugampala**  
-M.A. student in Economics, Old Dominion University  
-[danaeikatugampala20@gmail.com](mailto:danaeikatugampala20@gmail.com) · [LinkedIn](https://www.linkedin.com/in/danaei-katugampala-142770270/)
+M.A. in Economics, Old Dominion University, Norfolk, Virginia, USA  
++1 757 576 7494 · [danaeikatugampala20@gmail.com](mailto:danaeikatugampala20@gmail.com) · [LinkedIn](https://www.linkedin.com/in/danaei-katugampala-142770270/)
 
 Academic profile
 ======
-B.A. (Hons) Economics graduate of the University of Ruhuna (GPA 3.66/4.00) and current M.A. student in Economics at Old Dominion University. Research interests in environmental and green economics, with training in microeconomics, macroeconomics, econometrics, and qualitative and quantitative methods. Interested in teaching economics and in research on sustainable finance and environmental policy.
+M.A. Economics student at Old Dominion University with a B.A. (Hons) in Economics. Strong background in econometrics, economic research, quantitative analysis, and data-driven problem solving, with experience using R, Stata, SPSS, and Gretl. Experienced in conducting empirical research, analyzing economic data, and communicating research findings. Interested in applying economic and analytical skills to consulting projects involving healthcare economics, public policy, and industry analysis.
 
 Education
 ======
-* **M.A. in Economics**, Old Dominion University, Norfolk, Virginia, USA, 2026–2028
+* **M.A. in Economics**, Old Dominion University, Norfolk, Virginia, USA, 2026–July 2028
 * **B.A. (Hons) in Economics**, University of Ruhuna, Matara, Sri Lanka, 2022–March 2026 — GPA 3.66/4.00
 * **Diploma in Psychology and Counseling**, Aquinas College, Colombo, Sri Lanka, 2021–2022
-* **G.C.E. Advanced Level**, St. Bridget’s Convent, Colombo, Sri Lanka, 2020 — 2 A’s and 1 B (Arts stream: Economics, Geography, History)
-* **G.C.E. Ordinary Level**, St. Bridget’s Convent, Colombo, Sri Lanka, 2017 — 9 A’s
 
 Work experience
 ======
-* **Graduate Assistant**, Strome Business School, Old Dominion University, Virginia, USA, August 2026–present
+* **Teaching Assistant**, Strome Business School, Old Dominion University, Virginia, USA, August 2026–present
+  * Assist with undergraduate economics courses by supporting students with assignments and academic questions
+  * Grade and review student assignments, providing constructive feedback to improve understanding
+  * Conduct tutoring and office hours for undergraduates and assist faculty with examination proctoring
+
+* **Research Assistant**, Strome Business School, Old Dominion University, Virginia, USA, August 2026–present
+  * Support faculty research through literature reviews, data collection, data cleaning, and quantitative analysis
+  * Assist with empirical research projects using statistical and econometric methods in R and related software
+  * Contribute to research documentation, interpretation of results, and communication of findings
 
 * **Research Intern**, Marga Institute, Colombo, Sri Lanka, November 2025–January 2026
   * Assisted in the collection, analysis, and presentation of data for ongoing research projects
@@ -81,18 +87,14 @@ Selected projects
 Positions held
 ======
 * Faculty of Humanities and Social Sciences Scrabble Captain, University of Ruhuna, 2024
-* Senior Prefect and Deputy House Games Prefect, 2019
-* Junior Prefect and Assistant House Prefect, 2018
-* School Scrabble Captain, 2017
 
 Extracurricular activities
 ======
 * **Competitions:** 2nd runners-up, Varsity Battles 2025 (inter-university category)
-* **Scrabble:** ranked 24th in All-Island Scrabble Games (Under 15), 2016; placed in inter-school and inter-faculty Scrabble competitions
-* **Dance:** national-level performances; represented Sri Lanka at the Egypt World Dancing Festival
 
 Volunteering
 ======
+* **Research Fieldwork Participant**, March 2025 — Research Project on Archaeological and Historical Sites in Sri Lanka. Participated in fieldwork from 24–27 March 2025 across Anuradhapura, Polonnaruwa, Sigiriya, and Dambulla, contributing to data collection and field observations on the economic and cultural significance of heritage sites
 * Volunteer, Galle Literary Festival, 2024
 * Volunteer English teacher, EDUQUOR (Rotaract Club, University of Ruhuna)
 
