@@ -11,7 +11,7 @@ redirect_from:
 
 **Danaei Katugampala**  
 M.A. in Economics, Old Dominion University, Norfolk, Virginia, USA  
-+1 757 576 7494 · [danaeikatugampala20@gmail.com](mailto:danaeikatugampala20@gmail.com) · [LinkedIn](https://www.linkedin.com/in/danaei-katugampala-142770270/)
+[danaeikatugampala20@gmail.com](mailto:danaeikatugampala20@gmail.com) · [LinkedIn](https://www.linkedin.com/in/danaei-katugampala-142770270/)
 
 Academic profile
 ======
